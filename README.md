@@ -48,8 +48,8 @@ Filebeat следует сконфигурировать для отправки
 
 **Ответ.**
 
-- ![docker ps](images/1-1.png)
-- ![интерфейс](images/1-2.png)
+- ![docker ps](images/1-1.PNG)
+- ![интерфейс](images/1-2.PNG)
 - [docker-compose.yml](help/docker-compose.yml)
 ---
 
@@ -64,8 +64,8 @@ Filebeat следует сконфигурировать для отправки
  
 **Ответ.**
 
-- ![index-patterns](images/1-2.png)
-- ![Discover](images/1-1.png)
+- ![index-patterns](images/1-1.PNG)
+- ![Discover](images/1-2.PNG)
 
 ---
 
